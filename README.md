@@ -42,13 +42,13 @@ $ python2 fbi.py
 * The Forker may use 2 names, depends on his choice. Knightsec is the Group name and Lulzsec its just a tribute to those appreciated by the forker !
 
 # {Forker}
-
+```
 ####################################################	
-#  FBI Forked and lit up by  <>,.,Knightsec,.,<>    #
+#  FBI Forked and lit up by  <>,.,Knightsec,.,<>   #
 #						   #
 #						   #
 #  Instagram @supreme.loves.chicken		   #
-#  Github: LulzsecHackz			   #
+#  Github: LulzsecHackz			           #
 #  						   #
 #  More repositories soon :D			   #
 #						   #
@@ -66,3 +66,4 @@ $ python2 fbi.py
 			      		  ⟍__⧱__⟋
 				     		*Knightsec* 1.0
 
+```
