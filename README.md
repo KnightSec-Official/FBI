@@ -22,7 +22,7 @@ $ apt install git python2
 $ git clone https://github.com/LulzsecHackz/FBI.git
 $ cd FBI
 ```
-# [ Installation ]Mac-OSX (Sierra-High Sierra)-by Knightsec
+# [ Installation ]Mac-OSX (Sierra - High Sierra)
 ```
 $ brew install python2
 $ git clone https://github.com/LulzsecHackz/FBI.git
