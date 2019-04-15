@@ -41,7 +41,6 @@ $ python2 fbi.py
 * if you are confused how to use it, please type 'help' to display the help menu !
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
-* The Forker may use 2 names, depends on his choice. Knightsec is the Group name and Lulzsec its just a tribute to those appreciated by the forker !
 
 # {Forker}
 ```
@@ -49,9 +48,11 @@ $ python2 fbi.py
 #  FBI Forked and lit up by  <>,.,Knightsec,.,<>   #
 #						   #
 #						   #
-#  Instagram @supreme.loves.chicken		   #
-#  Github: LulzsecHackz			           #
-#  						   #
+# Instagram @knightsec_		                   #
+# Github: KnightSec-Ofiicial                       #
+# Youtube:                                         #
+# www.youtube.com/channel/UCG3kQUplyR1ktq702VpWFQg #
+#                                                  #
 #  More repositories soon :D			   #
 #						   #
 #						   #
